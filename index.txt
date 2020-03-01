@@ -5,5 +5,8 @@ payment reference added
 
 yandex.metrica
 
+Google analytics
+
+
 
 
